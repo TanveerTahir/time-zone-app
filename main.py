@@ -6,6 +6,10 @@ from zoneinfo import ZoneInfo
 TIME_ZONES = [
     "UTC",
     "Asia/Karachi",  # Pakistan
+    "Mexico/General",  # Mexico
+    "Asia/Dhaka",    # Bangladesh
+    "Asia/Kathmandu",  # Nepal
+    "Asia/Colombo",  # Sri Lanka
     "Asia/Kolkata",  # India
     "Asia/Shanghai", # China
     "Asia/Dubai",    # UAE
